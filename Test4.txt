@@ -1,2 +1,2 @@
 This is the 4th file created in Local.
-This is from Local for Merge conflict test
+Test line 2
